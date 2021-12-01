@@ -8,9 +8,9 @@ This is my academic account for all university projects.
 
 <br/>
 
-[<img align="left" alt="quingzz | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="quingzz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="quingzz | Reddit" width="22px" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/6.0.0/reddit.svg"/>][reddit]
+[<img align="left" alt="s3818245 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="s3818245 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="s3818245 | Reddit" width="22px" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/6.0.0/reddit.svg"/>][reddit]
 
 <br />
 
@@ -59,7 +59,7 @@ This is my academic account for all university projects.
 <div>:zap: GitHub Stats</div>
 <br/>
 
-![quingzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=quingzz&count_private=true&show_icons=true)
+![Quynh Anh's GitHub stats](https://github-readme-stats.vercel.app/api?username=s3818245&count_private=true&show_icons=true)
 
 
 
