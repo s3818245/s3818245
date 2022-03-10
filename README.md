@@ -2,15 +2,15 @@
 
 I'm Quynh Anh, a software engineer. I am interested in web full-stack developement and machine learning.
 
-This is my academic account for all university projects.
+This is my academic account for all university projects. My personal GitHub is included in Contact Me section below.
 
 ### Contact me
 
 <br/>
 
-[<img align="left" alt="s3818245 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="s3818245 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="s3818245 | Reddit" width="22px" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/6.0.0/reddit.svg"/>][reddit]
+[<img align="left" alt="s3818245 | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg"/>][github]
 
 <br />
 
@@ -68,3 +68,4 @@ This is my academic account for all university projects.
 [twitter]: https://twitter.com/quingzzz
 [linkedin]: https://www.linkedin.com/in/truong-quynh-anh-phan-219572212/
 [reddit]: https://www.reddit.com/user/quingzzz
+[github]: https://github.com/quingzz
